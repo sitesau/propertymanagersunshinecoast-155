@@ -1,0 +1,22 @@
+{
+  "wheel_id": 868,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-155",
+  "project": "rental-management-sunshine-coast-local-options-compared-ac000e4",
+  "parent_t1_ref": "propertymanagersunshinecoast-016",
+  "node_role": "buffer",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "rental management sunshine coast local options compared",
+  "intended_url": "https://aumedia.neocities.org/rental-management-sunshine-coast-local-options-compared-ac000e4/",
+  "tier": "T2",
+  "writeback_nonce": "931e55b07a7fa7ad",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/rental-management-sunshine-coast/",
+      "anchor": "more on rental management sunshine coast",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
